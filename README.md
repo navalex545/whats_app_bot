@@ -130,5 +130,4 @@ Este proyecto esta bajo la Licencia MIT.
 
 ---
 
-**Hecho con amor por Charlie Cross**
 
